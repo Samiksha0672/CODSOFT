@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 50px 0px;
+    background-image: url(calciback3.jpeg);
+    background-size: cover;
+}
+button.clear {
+    background: rgb(220, 46, 150);
+    color: #fff;
+}
+.trans {
+    
+    background: rgba(255, 255, 255, 0.2);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    padding: 7px 5px;
+    border-radius: 10px;
+    margin-top: 5px;
+  }
+
+button.equal {
+    width: 88%;
+    background:rgb(220, 46, 150) ;
+    color:white;
+}
+button.equal:hover{
+	background: white;
+}
+input[type="text"] {
+    width: 450px;
+    height: 81px;
+    border: 1px solid blue;
+    padding: 10px 20px;
+    font-size: 29px;
+    background: white;
+    font-weight: bold;
+    margin-bottom: 25px;
+    font-family: cursive;
+    margin-top: 10px;
+    color: #dedede;
+    border-bottom: 3px solid rgb(215, 79, 179);
+}
+button {
+    padding: 10px 20px;
+    width: 90px;
+    height: 50px;
+    margin-bottom: 15px;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: cursive;
+    background: white;
+    border: none;
+    color: rgb(112, 112, 219);
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left:15px;
+}
+button:hover{
+	background: white;
+    color:rgb(112, 112, 219);
+}
