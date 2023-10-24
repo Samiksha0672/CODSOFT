@@ -1,0 +1,185 @@
+*{
+    margin:0;
+    padding:0;
+    font-style:calibri;
+}
+.landback{
+    height:750px;
+    background-image:url(landback2.jpeg);
+    background-size:cover;
+}
+.nav{
+    height:80px;
+    border-bottom: 2px solid rgb(39, 39, 104);
+    display:flex;
+}
+.logoname{
+    width:140px;
+    height:80px;
+    font-size:60px;
+    color:rgb(243, 239, 239);
+    display:flex;
+    justify-content: space-between;
+    margin-left:90px;
+    font-weight:1.5rem;
+}
+.logo{
+    width:70px;
+    height:80px;
+    color:rgb(123, 209, 123);
+    font-size:35px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+select{
+    text-decoration: none;
+}
+.options{
+    width:1200px;
+    height:80px;
+    display:flex;
+    align-items: flex-end;
+    font-size: 17px;
+    color:white;
+    justify-content: space-evenly;
+    margin:0px 40px 0px 250px;
+}
+.back1:hover{
+    background-color:rgb(97, 231, 188);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:30px;
+}
+.workwithus{
+    height:30px;
+    width:160px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(233, 87, 111);
+    border-radius:35px;
+}
+.option1{
+    width:150px;
+}
+.optionother{
+    width:100px;
+}
+.fulldiv{
+    height:670px;
+    display:flex;
+    flex-wrap: wrap;
+}
+.upperdiv{
+    height:500px;
+    width:1423px;
+    display:flex;
+}
+.leftdiv{
+    height:500px;
+    width:826px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.leftdiv p{
+    font-size:40px;
+    margin-bottom: 20px;
+}
+h{
+    font-size:20px;
+}
+.rightdiv{
+    height:500px;
+    width:500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    height:400px;
+    width:400px;
+    background-image: url(landrightimage.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.lowerdiv{
+    height:170px;
+    width:1423px;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.insideleftdiv{
+    height:350px;
+    width:600px;
+    color:white;
+}
+.margin{
+    height:50px;
+    width:180px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(233, 87, 111);
+    border-radius:35px;
+    margin-top:30px;
+    font-size:15px;
+    margin-left:80px;
+}
+.iconback{
+    width:120px;
+    height:50px;
+    display:flex;
+}
+.icon1{
+    width:40px;
+    height:50px;
+    font-size: 30px;
+}
+.markpat{
+    height:70px;
+    width:70px;
+    font-size:17px;
+}
+.icon2{
+    width:50px;
+    height:50px;
+    background-image: url(googleendorsed.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.icon3{
+    width:50px;
+    height:50px;
+    background-image: url(forbes.png);
+    background-size: cover;
+    border-radius: 50%;
+}
+.icon4{
+    width:50px;
+    height:50px;
+    background-image: url(inc.png);
+    background-size:cover;
+    border-radius: 50%;
+}
+.icon5{
+    width:70px;
+    height:50px;
+    color:black;
+    color:white;
+    font-size:25px;
+}
+.iconpdiv{
+    width:190px;
+    height:90px;
+    color:white;
+}
+
+
+
+
